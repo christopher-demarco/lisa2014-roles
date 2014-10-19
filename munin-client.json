@@ -1,0 +1,8 @@
+{
+    "name" : "munin-client",
+    "run_list" : [
+	"recipe[munin-client]"
+	]
+}
+
+	
